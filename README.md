@@ -1,5 +1,5 @@
 # GuessTheSequence
-Welcome to Guess The Sequence game !
+### Welcome to Guess The Sequence game !
 ## Goal:
 ### Your goal is to guess the compuer sequnce.
 ### The program generates sequence of letters from A to H.
@@ -8,6 +8,7 @@ Welcome to Guess The Sequence game !
 
 ## Insuctions: 
 ### 1. Enter the number of guesses you would like to play: from 4 to 10 guesses.
-### 2. Start insert sequences and follow the program feedback.
+### 2. Start insert sequences and follow the program feedback in order to guess correctly.
+### If you were unlucky, you can always play another game.
 
 ### Good Luck :)
