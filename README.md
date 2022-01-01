@@ -8,7 +8,7 @@
 
 ## Insuctions: 
 ### 1. Enter the number of guesses you would like to play: from 4 to 10 guesses.
-### 2. Start insert sequences and follow the program feedback in order to guess correctly.
+### 2. Start insert sequence of letters from A to H and follow the program feedbacks in order to guess correctly.
 ### If you were unlucky, you can always play another game.
 
 ### Good Luck :)
