@@ -3,7 +3,7 @@
 ## Goal:
 ### Your goal is to guess the compuer sequnce.
 ### The program generates sequence of 4 letters from A to H.
-### For each correct letter in the wrong place you will get an X.
+### For each correct letter in the wrong place you will get a X.
 ### For each correct letter in the correct place you will get a V.
 
 ## Instructions: 
