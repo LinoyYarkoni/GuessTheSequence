@@ -1,5 +1,6 @@
 # GuessTheSequence
 ### Welcome to Guess The Sequence game !
+
 ## Goal:
 ### Your goal is to guess the compuer sequnce.
 ### The program generates sequence of 4 letters from A to H.
